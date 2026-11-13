@@ -2,8 +2,8 @@
 
 **Most online-shop visitors leave without buying; this app predicts from a browsing session who is likely to purchase, so a site can show a coupon or chat only where it helps.**
 
-🔗 **Live app:** [ADD YOUR STREAMLIT LINK]
-📸 *[Add a screenshot or GIF of the app here]*
+🔗 **Live app:** [[ADD YOUR STREAMLIT LINK]](https://shopper-purchase-intent-bnxxbbuzyh8im6tsa4jqf5.streamlit.app/)
+📸 (screenshot.png)
 
 ## Results (test set, never used for tuning)
 
