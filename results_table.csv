@@ -1,0 +1,5 @@
+model,threshold,accuracy,precision,recall,F1,ROC-AUC,PR-AUC
+Baseline (majority),0.5,0.8435,0.0,0.0,0.0,0.5,0.1565
+Logistic Regression,0.6554,0.8832,0.5945,0.7984,0.6816,0.9266,0.696
+Random Forest,0.5929,0.8947,0.6485,0.7147,0.68,0.9334,0.745
+Gradient Boosting,0.3479,0.8992,0.6619,0.7277,0.6933,0.9372,0.7477
